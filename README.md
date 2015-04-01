@@ -1,2 +1,2 @@
-CNTFET-SRAM-CELL-HSPICE-CODE
+CNTFET-SRAM-Cell-HSpice-Code
 ============================
